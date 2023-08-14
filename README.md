@@ -43,12 +43,16 @@
 [![](https://img.shields.io/badge/Bootstrap--7952B3?style=for-the-badge&logo=Bootstrap)](#) 
 [![](https://img.shields.io/badge/git--F05032?style=for-the-badge&logo=git)](#) 
 [![](https://img.shields.io/badge/MySQL--4479A1?style=for-the-badge&logo=MySQL)](#) 
+<hr>
+<p align="center">
+<img src="https://media.giphy.com/media/W5eoZHPpUx9sapR0eu/giphy.gif" width="30px" alt="Git"/>&nbsp;<i><b>Git Activeness</b></i></p>
+ 
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=8660vishnu&show_icons=true&locale=en&layout=compact&theme=gruvbox&include_all_commits=true&count_private=true" alt="ovi" /></p>
+<p>
+<img align="right" src="https://github-readme-stats.vercel.app/api?username=8660vishnu&show_icons=true&locale=en&theme=gruvbox&include_all_commits=true&count_private=true" alt="ovi" width="410" /></p>
 
 
 
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=8660vishnu&show_icons=true&locale=en&layout=compact" alt="8660vishnu" /></p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=8660vishnu&show_icons=true&locale=en" alt="8660vishnu" /></p>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=8660vishnu&" alt="8660vishnu" /></p>
