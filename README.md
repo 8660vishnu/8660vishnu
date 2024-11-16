@@ -46,7 +46,7 @@
 [![](https://img.shields.io/badge/SPRING-BOOT--3776AB?style=for-the-badge&logo=SPRING-BOOT)](#) 
 [![](https://img.shields.io/badge/C--A8B9CC?style=for-the-badge&logo=C)](#)
 [![](https://img.shields.io/badge/git--F05032?style=for-the-badge&logo=git)](#) 
-[![](https://img.shields.io/badge/MySQL--4479A1?style=for-the-badge&logo=MySQL)](#) 
+[![](https://img.shields.io/badge/SQL--4479A1?style=for-the-badge&logo=SQL)](#) 
 <hr>
 <p align="center">
 <img src="https://media.giphy.com/media/W5eoZHPpUx9sapR0eu/giphy.gif" width="30px" alt="Git"/>&nbsp;<i><b>Git Activeness</b></i></p>
