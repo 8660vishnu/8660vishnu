@@ -10,7 +10,7 @@
 
 - 🌱 I’m currently learning **Web development**
 
-- 💬 Ask me about **HTML , CSS , JS ,Python , c , Bootstrap , SQL**
+- 💬 Ask me about **HTML , CSS , JS ,Bootstrap , Java core , Bootstrap , SQL , Spring Boot **
 
 - 📫 How to reach me **vishnupoojary9739@gmail.com**
 
